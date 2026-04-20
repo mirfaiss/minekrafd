@@ -1,0 +1,45 @@
+place_id,nama_poi,type,alamat,vicinity_asli,status,lat_poi,long_poi,ref_lat_awal,ref_lon_awal,tier_referensi,radius_pencarian
+ChIJIwQNdQDtKjARaNiz9XEVPqs,Penjahit Putri,"point_of_interest, establishment",84R6+PPP,84R6+PPP,OPERATIONAL,0.3418928000000001,100.1118848,0.342038882976302,100.112393989122,3.0,500
+ChIJTfvw2brtKjARicTqNFMg5kQ,Masjid Nurul Iman Air Rambah,"mosque, place_of_worship, point_of_interest, establishment","84R6+PPP, Panti","84R6+PPP, Panti",OPERATIONAL,0.3418364,100.1118379,0.342038882976302,100.112393989122,3.0,500
+ChIJHWUz37rtKjAR5XqKD7JeC_M,Lapangan Volly ARC Club,"point_of_interest, establishment","84R6+WMH, Panti","84R6+WMH, Panti",OPERATIONAL,0.3423058,100.1117449,0.342038882976302,100.112393989122,3.0,500
+ChIJNQ53MQDtKjARpve8sR2Cgwg,Rumah pertemuan,"restaurant, food, point_of_interest, establishment",84R6+PPP,84R6+PPP,OPERATIONAL,0.341467,100.1118683,0.342038882976302,100.112393989122,3.0,500
+ChIJ5_6PcgDtKjARY-EqaOvBRiw,Lopo Awan,"shopping_mall, point_of_interest, establishment",84R6+PPP,84R6+PPP,OPERATIONAL,0.3412628,100.1118422,0.342038882976302,100.112393989122,3.0,500
+ChIJi-B8CgDtKjAROweXjhgANeQ,Lopo Imah,"shopping_mall, point_of_interest, establishment",84R6+3Q,84R6+3Q,OPERATIONAL,0.3402067,100.1119984,0.342038882976302,100.112393989122,3.0,500
+ChIJTyc5ebntKjAR77CqITrpiyg,Waroeng Coffee Syaiky,"cafe, food, point_of_interest, establishment","84W6+FG2, Panti","84W6+FG2, Panti",CLOSED_TEMPORARILY,0.3461427,100.1112598,0.342038882976302,100.112393989122,3.0,500
+ChIJYVzsYADtKjAR2DIzUpPFnPE,Kobun Aek Lado,"point_of_interest, establishment",84Q7+8V,84Q7+8V,OPERATIONAL,0.3382795999999999,100.1146689,0.342038882976302,100.112393989122,3.0,500
+ChIJMxL5xQztKjARkb5Nrgekevc,PAUD AR_RASYID,"school, point_of_interest, establishment","8426+4CP, Panti","8426+4CP, Panti",OPERATIONAL,0.3003336,100.1110911,0.299451934380831,100.111884269365,2.0,350
+ChIJAb1ROADtKjARSVwi7vuNEhs,Rumah kona,"point_of_interest, establishment","74X7+R9X, Panti","74X7+R9X, Panti",OPERATIONAL,0.2996093999999999,100.1134859,0.299451934380831,100.111884269365,2.0,350
+ChIJE_6t0yntKjARjkAxFknPppY,SD N 22 Petok Kec. Panti,"primary_school, school, point_of_interest, establishment","74X7+WJ9, Panti","74X7+WJ9, Panti",OPERATIONAL,0.2997764,100.1141137,0.299451934380831,100.111884269365,2.0,350
+ChIJUXxcYI7tKjARbl0isveB_nE,kampung tengah,"mosque, place_of_worship, point_of_interest, establishment",74X7+WJ9,74X7+WJ9,OPERATIONAL,0.2998259,100.1141924,0.299451934380831,100.111884269365,2.0,350
+ChIJBRwNPMDtKjARMz9fK1Gfk0w,Mesjid Raya Nurul Ikhwan,"mosque, place_of_worship, point_of_interest, establishment","8427+6JH, Panti","8427+6JH, Panti",OPERATIONAL,0.3005668,100.1140969,0.299451934380831,100.111884269365,2.0,350
+ChIJXQ9oJADtKjARtZ8sJL4fSXc,Bendungan Sawah,"tourist_attraction, point_of_interest, establishment",74X9+V3R,74X9+V3R,OPERATIONAL,0.2997398,100.1176253,0.299451934380831,100.117274209467,2.0,350
+ChIJ97ZqUrPtKjARKaUY2Wh0JEk,Koto Baru Jorong Petok Kec Panti Kabupaten Pasaman,"point_of_interest, establishment",8429+22G,8429+22G,OPERATIONAL,0.3000710999999999,100.1175747,0.299451934380831,100.117274209467,2.0,350
+ChIJy3cM8P3tKjAR7jumW8tHG1M,WiFi Nengsih,"cafe, food, point_of_interest, store, establishment","8428+28G, Panti","8428+28G, Panti",OPERATIONAL,0.3003316,100.1171039,0.299451934380831,100.117274209467,2.0,350
+ChIJGSorFDPtKjARG3D9qTw1IIQ,Kedai Harian Yoga,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",74X9+X86,74X9+X86,OPERATIONAL,0.2999098,100.1182805,0.299451934380831,100.117274209467,2.0,350
+ChIJcSzlYwDtKjARZpi_iTw3T28,Kadai gorengan ni jelly,"cafe, food, point_of_interest, store, establishment",74X9+W9J,74X9+W9J,OPERATIONAL,0.299706,100.118423,0.299451934380831,100.117274209467,2.0,350
+ChIJnfLKUwDtKjARjIEZi1Ps-LA,Koto baru petok,"grocery_or_supermarket, food, point_of_interest, store, establishment","74X9+V9G, Koto baru","74X9+V9G, Koto baru",OPERATIONAL,0.2996905,100.118449,0.299451934380831,100.117274209467,2.0,350
+ChIJ5xJKUyntKjAR2vgE-O7BNgY,Musholla Al Hikmah Koto Baru Jr Petok Timur Nagari panti selatan,"place_of_worship, point_of_interest, establishment","8428+4F Panti, Pasaman Regency, West Sumatra, Indonesia",Panti,OPERATIONAL,0.3003624,100.1162453,0.299451934380831,100.117274209467,2.0,350
+ChIJzz7HyPHtKjAR3iXiAT6GxT0,Masjid Raya Nurul Ikhsan Koto Baru,"mosque, place_of_worship, point_of_interest, establishment",74X9+PF4,74X9+PF4,OPERATIONAL,0.29927,100.1186908,0.299451934380831,100.117274209467,2.0,350
+ChIJq1uXFWXtKjARD2qVH76xb7o,Surau Suluak. Koto Baru,"mosque, place_of_worship, point_of_interest, establishment",8428+29C,8428+29C,OPERATIONAL,0.3000617,100.1158893,0.299451934380831,100.117274209467,2.0,350
+ChIJ5ZfPBgDtKjARXooHdc4jvUI,"Poliklinik Desa, Koto Baru","health, point_of_interest, establishment",74X9+QJG,74X9+QJG,OPERATIONAL,0.2994488,100.1190657,0.299451934380831,100.117274209467,2.0,350
+ChIJQ5aWWaTtKjAR12ShEC5k06Y,MCK Koto Baru,"point_of_interest, establishment",74X9+VJ9,74X9+VJ9,OPERATIONAL,0.2996574,100.1190945,0.299451934380831,100.117274209467,2.0,350
+ChIJ7yqIaQDtKjARpyN7hMZorDg,Kedai 4 Putri,"store, point_of_interest, establishment",74X9+GP9,74X9+GP9,OPERATIONAL,0.2990596,100.1191146,0.299451934380831,100.117274209467,2.0,350
+ChIJQbgkvfjtKjARwqz06_naWXs,Aini,"point_of_interest, establishment",74X9+PQ4,74X9+PQ4,OPERATIONAL,0.2995967,100.1193255,0.299451934380831,100.117274209467,2.0,350
+ChIJuUIn3kDtKjARHJFb_Qar17I,MDA Darul Islam Koto Baru,"place_of_worship, point_of_interest, establishment",74X9+PR7,74X9+PR7,OPERATIONAL,0.2992929,100.1195361,0.299451934380831,100.117274209467,2.0,350
+ChIJu3TIwWjtKjARZ2drJGGZbMI,Kedai Harian Mak Don,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment","74X9+HRC, Panti","74X9+HRC, Panti",OPERATIONAL,0.298926,100.1195261,0.299451934380831,100.117274209467,2.0,350
+ChIJZS-HkWTtKjARno0PzbqUx00,Kedai Harian Rendi,"convenience_store, food, point_of_interest, store, establishment","74X9+GQ Panti, Pasaman Regency, West Sumatra, Indonesia",,OPERATIONAL,0.298766,100.1194867,0.299451934380831,100.117274209467,2.0,350
+ChIJe1RVnhDtKjARzdGw3saUkhA,MDA Ar-Rahman,"point_of_interest, establishment","74X9+MRW, Panti","74X9+MRW, Panti",OPERATIONAL,0.2992395999999999,100.1195876,0.299451934380831,100.117274209467,2.0,350
+ChIJxb13pNjtKjAR-aBT_M8L1QQ,AQIL WIFI & MUSTOFA VOUCHER,"point_of_interest, establishment","74X9+FR Panti, Pasaman Regency, West Sumatra, Indonesia",,OPERATIONAL,0.2987083,100.1195017,0.299451934380831,100.117274209467,2.0,350
+ChIJ_QPMa2btKjARq06pvsB5p6E,Lapangan Bola Koto Baru,"point_of_interest, establishment","74X9+MR, Panti","74X9+MR, Panti",OPERATIONAL,0.2985074,100.1194355,0.299451934380831,100.117274209467,2.0,350
+ChIJy0BaL9HtKjARCp1Yr63U9mE,PB VFP Bersaudara,"point_of_interest, establishment","74X9+MR, Panti","74X9+MR, Panti",OPERATIONAL,0.2991461,100.1196407,0.299451934380831,100.117274209467,2.0,350
+ChIJzRDGNQDtKjARLpOwjneeOyg,Pasar Rakyat Koto Baru,"point_of_interest, establishment","74X9+CR4, Panti","74X9+CR4, Panti",OPERATIONAL,0.2985198,100.119589,0.299451934380831,100.117274209467,2.0,350
+ChIJL-_UuaftKjARdHxwpUlfN50,Jual beli dagang harian,"point_of_interest, establishment","74X9+CV Panti, Pasaman Regency, West Sumatra, Indonesia",Jalan Lintas Sumatera,OPERATIONAL,0.2985295,100.1196347,0.299451934380831,100.117274209467,2.0,350
+ChIJcTXsIiXtKjARXjwHSFYi8-Y,Pangkas Rambut Affan Nabila,"hair_care, point_of_interest, establishment",74X9+7R6,74X9+7R6,OPERATIONAL,0.2981577,100.1195005,0.299451934380831,100.117274209467,2.0,350
+ChIJITeQBwDtKjAR6pm2h_dnaag,Jati Park,"tourist_attraction, point_of_interest, establishment","74XC+F3M, Panti","74XC+F3M, Panti",OPERATIONAL,0.2987149,100.1201594,0.299451934380831,100.117274209467,2.0,350
+ChIJUXxcYI7tKjARbl0isveB_nE,kampung tengah,"mosque, place_of_worship, point_of_interest, establishment",74X7+WJ9,74X7+WJ9,OPERATIONAL,0.2998259,100.1141924,0.299451934380831,100.117274209467,2.0,350
+ChIJBwLSEYkFKzAReljfeso7cyI,Objek wisata mungkaih,"tourist_attraction, point_of_interest, establishment","M2G5+3H, Koto Rajo","M2G5+3H, Koto Rajo",OPERATIONAL,0.6752290999999999,100.0089446,0.672974223487065,100.008472248511,3.0,500
+NONE,TIDAK ADA POI,,,,,,,0.672974223487065,100.0138625574,3.0,500
+ChIJmy6hbADjKjARb9fCVcv_2AI,Kantor wali nagari Lubuak gadang,"point_of_interest, establishment","H5F2+2PP, Pulau, jorong, Lubuak Gadang","H5F2+2PP, Pulau, jorong, Lubuak Gadang",OPERATIONAL,0.5725935,100.1518255,0.571040974044356,100.15092266165,2.0,350
+NONE,TIDAK ADA POI,,,,,,,0.393171091248324,100.110143247518,1.0,200
+NONE,TIDAK ADA POI,,,,,,,0.393171091248324,100.11553325388,1.0,200
+NONE,TIDAK ADA POI,,,,,,,0.397838853036598,100.107448244337,1.0,200
